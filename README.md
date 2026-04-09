@@ -12,7 +12,7 @@ Necessita somente de realizar o download da pasta do simulador e abrir o execut�
 
 ### Passos para a instalação
 **1ºPasso** – Realizar o download da pasta que se encontra no link: 
-https://alumniual-my.sharepoint.com/:f:/g/personal/30008890_students_ual_pt/EijOSUgs9AFOmqEFBEE5510Bx64ANdybxphDFLqWi35yTQ?e=LEkNtI
+https://drive.google.com/drive/folders/1acrBB_J-2jFhI4LmfM5-yeqk1g09zmpQ?usp=drive_link
 
 **2ºPasso** – Descompactar o zip para uma localização à sua escolha
 
